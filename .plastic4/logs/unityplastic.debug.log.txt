@@ -1,0 +1,10 @@
+﻿2022-02-13 18:58:24,016 zeynepbusesevincel DEBUG RestApi - No user defined URIs in '/Users/zeynepbusesevincel/.plastic4/webapi.conf'. Will use default URIs.
+2022-02-13 18:58:24,028 zeynepbusesevincel DEBUG RestApi - No user defined URIs in '/Users/zeynepbusesevincel/.plastic4/webapi.conf'. Will use default URIs.
+2022-02-13 18:58:28,008 zeynepbusesevincel DEBUG RestApi - No user defined URIs in '/Users/zeynepbusesevincel/.plastic4/webapi.conf'. Will use default URIs.
+2022-02-13 18:58:28,019 zeynepbusesevincel DEBUG RestApi - No user defined URIs in '/Users/zeynepbusesevincel/.plastic4/webapi.conf'. Will use default URIs.
+2022-02-13 18:58:43,693 zeynepbusesevincel DEBUG RestApi - No user defined URIs in '/Users/zeynepbusesevincel/.plastic4/webapi.conf'. Will use default URIs.
+2022-02-13 18:58:43,705 zeynepbusesevincel DEBUG RestApi - No user defined URIs in '/Users/zeynepbusesevincel/.plastic4/webapi.conf'. Will use default URIs.
+2022-02-13 18:58:50,874 zeynepbusesevincel DEBUG RestApi - No user defined URIs in '/Users/zeynepbusesevincel/.plastic4/webapi.conf'. Will use default URIs.
+2022-02-13 18:58:50,888 zeynepbusesevincel DEBUG RestApi - No user defined URIs in '/Users/zeynepbusesevincel/.plastic4/webapi.conf'. Will use default URIs.
+2022-02-13 18:59:16,315 zeynepbusesevincel DEBUG RestApi - No user defined URIs in '/Users/zeynepbusesevincel/.plastic4/webapi.conf'. Will use default URIs.
+2022-02-13 18:59:16,326 zeynepbusesevincel DEBUG RestApi - No user defined URIs in '/Users/zeynepbusesevincel/.plastic4/webapi.conf'. Will use default URIs.

@@ -1,0 +1,2 @@
+/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home:17:0:1:64:true:1634766490000:x86_64
+/Library/Java/JavaVirtualMachines/jdk-17.0.1.jdk/Contents/Home:17:0:1:64:true:1632765325000:x86_64
