@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/MealerApp/app/src/androidTest/java" />
+      <root url="file://$PROJECT_DIR$/MealerApp/app/src/main/java" />
+      <root url="file://$PROJECT_DIR$/MealerApp/app/src/test/java" />
+      <root url="file://$PROJECT_DIR$/Test" />
+      <root url="file://$PROJECT_DIR$/Test/Client_version/app 6.40.22 PM/src/androidTest/java" />
+      <root url="file://$PROJECT_DIR$/Test/Client_version/app 6.40.22 PM/src/main/java" />
+      <root url="file://$PROJECT_DIR$/Test/Client_version/app 6.40.22 PM/src/test/java" />
+      <root url="file://$PROJECT_DIR$/Test/main/java" />
+    </SOURCES>
+  </library>
+</component>
